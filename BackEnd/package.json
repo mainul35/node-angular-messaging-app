@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend of messaging app",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng-test"
+  },
+  "author": "Mainul35",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
